@@ -5,8 +5,7 @@
 ---
 
 ## Demo
-*(Insert GIF or screenshot here)*
-
+![Gameplay Demo](assets/demo.gif)
 ---
 
 ## Features
