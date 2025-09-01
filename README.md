@@ -5,8 +5,7 @@
 ---
 
 ## Demo
-![Gameplay Demo](assets/demo.gif)
----
+![Gameplay Demo](PopTheLockDemoGif.gif)---
 
 ## Features
 - Reaction-based timing gameplay
